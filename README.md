@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninh-Evolectric
+- 👋 Hi, I’m Ninh
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Pipelines
 
